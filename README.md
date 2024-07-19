@@ -1,2 +1,2 @@
 # neetcode150
-Codes for neetcode 150 Problems
+Code for all neetcode 150 Problems
